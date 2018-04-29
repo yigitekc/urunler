@@ -1,47 +1,47 @@
 ﻿{"urunler":[
     { 	"urun_id":1,
 	"urun_ad":"Doe",
-	"urun_fiyat":"Doe",
+	"urun_fiyat":6,
 	"urun_aciklama":"",
 	"urun_renk":"",
 	"urun_satici:"",
-	"urun_resim:""
+	"urun_resim:"https://indigodergisi.com/wp-content/uploads/2017/05/1494118823_EpilepsiveBen_6_11Ya_____kincisi__Berat___pek-265x198.jpg"
 },
 
     { 	"urun_id":2,
 	"urun_ad":"Doe",
-	"urun_fiyat":"Doe",
+	"urun_fiyat":5,
 	"urun_aciklama":"",
 	"urun_renk":"",
 	"urun_satici:"",
-	"urun_resim:""
+	"urun_resim:"https://indigodergisi.com/wp-content/uploads/2017/05/1494118823_EpilepsiveBen_6_11Ya_____kincisi__Berat___pek-265x198.jpg"
 },
 
     { 	"urun_id":3,
 	"urun_ad":"Doe",
-	"urun_fiyat":"Doe",
+	"urun_fiyat":4,
 	"urun_aciklama":"",
 	"urun_renk":"",
 	"urun_satici:"",
-	"urun_resim:""
+	"urun_resim:"https://indigodergisi.com/wp-content/uploads/2017/05/1494118823_EpilepsiveBen_6_11Ya_____kincisi__Berat___pek-265x198.jpg"
 },
 
     { 	"urun_id":4,
 	"urun_ad":"Doe",
-	"urun_fiyat":"Doe",
+	"urun_fiyat":3,
 	"urun_aciklama":"",
 	"urun_renk":"",
 	"urun_satici:"",
-	"urun_resim:""
+	"urun_resim:"https://indigodergisi.com/wp-content/uploads/2017/05/1494118823_EpilepsiveBen_6_11Ya_____kincisi__Berat___pek-265x198.jpg"
 },
 
     { 	"urun_id":5,
 	"urun_ad":"Doe",
-	"urun_fiyat":"Doe",
+	"urun_fiyat":2,
 	"urun_aciklama":"",
 	"urun_renk":"",
 	"urun_satici:"",
-	"urun_resim:""
+	"urun_resim:"https://indigodergisi.com/wp-content/uploads/2017/05/1494118823_EpilepsiveBen_6_11Ya_____kincisi__Berat___pek-265x198.jpg"
 }
    
 ]}
