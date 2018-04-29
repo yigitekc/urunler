@@ -1,0 +1,52 @@
+﻿{"urunler":[
+    { 	"urun_id":1,
+	"urun_ad":"Doe",
+	"urun_fiyat":"Doe",
+	"urun_aciklama":"",
+	"urun_renk":"",
+	"urun_satici:"",
+	"urun_resim:""
+},
+
+    { 	"urun_id":2,
+	"urun_ad":"Doe",
+	"urun_fiyat":"Doe",
+	"urun_aciklama":"",
+	"urun_renk":"",
+	"urun_satici:"",
+	"urun_resim:""
+},
+
+    { 	"urun_id":3,
+	"urun_ad":"Doe",
+	"urun_fiyat":"Doe",
+	"urun_aciklama":"",
+	"urun_renk":"",
+	"urun_satici:"",
+	"urun_resim:""
+},
+
+    { 	"urun_id":4,
+	"urun_ad":"Doe",
+	"urun_fiyat":"Doe",
+	"urun_aciklama":"",
+	"urun_renk":"",
+	"urun_satici:"",
+	"urun_resim:""
+},
+
+    { 	"urun_id":5,
+	"urun_ad":"Doe",
+	"urun_fiyat":"Doe",
+	"urun_aciklama":"",
+	"urun_renk":"",
+	"urun_satici:"",
+	"urun_resim:""
+}
+   
+]}
+
+
+
+
+
